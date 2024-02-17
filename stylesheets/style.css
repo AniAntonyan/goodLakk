@@ -71,7 +71,7 @@ header {
     align-items: center;
     justify-content: space-between;
     gap: 1rem;
-    padding: 10px 35px;
+    padding: 10px;
     transition: none;
 }
 
@@ -286,6 +286,7 @@ aside .dark_bg {
     width: 100%;
     z-index: -1;
     background: none;
+    transition: all 500ms linear;
 }
 
 aside .dark_bg.active {
