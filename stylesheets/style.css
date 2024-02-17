@@ -1145,6 +1145,10 @@ footer .scroll_top:hover {
         right: 0;
     }
 
+    aside .sidebar{
+        left: -150%;
+    }
+
     .home .slider {
         height: 75vh;
     }
